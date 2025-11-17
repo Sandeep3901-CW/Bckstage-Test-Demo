@@ -93,6 +93,8 @@ catalog:
       target: ../../examples/org.yaml
       rules:
         - allow: [User, Group]
+    - type: url
+      target: https://github.com/Sandeep3901-CW/Bckstage-Test-Demo/blob/main/component-example.yaml
 
     ## Uncomment these lines to add more example data
     # - type: url
